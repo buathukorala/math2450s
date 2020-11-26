@@ -7,9 +7,8 @@ The website_* must be defined for the RSS to work
 @def website_descr = "Example website using Franklin"
 @def website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 
+@def author = "Bhagya Athukorallage"
 @def prepath = "mywebpage"
-
-@def author = "Septimia Zenobia"
 
 @def mintoclevel = 2
 

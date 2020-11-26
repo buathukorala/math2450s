@@ -5,12 +5,6 @@
 
 \tableofcontents <!-- you can use \toc as well -->
 
-Bhagya's first edit
-
-Bhagya's second edit
-
-Bhagya's third edit
-
 This section is meant as a refresher if you're new to Franklin.
 Have a look at both how the website renders and the corresponding markdown (`index.md`).
 Modify at will to get a feeling for how things work!
