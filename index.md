@@ -10,8 +10,7 @@
 
 ![Alt Text](/assets/toronto.gif)   
 
-_(Source: Photo from Unsplash.)_
-
+<sub><sup>Photo from Unsplash</sup></sub>
 
 ## Things to be known:
 Course syllabus [lives here!](https://texastechuniversity-my.sharepoint.com/:b:/g/personal/bhagya_athukorala_ttu_edu/EYAeU871pSVIvLDTgdXbjBkBlMg5jNkCA0Z9JlCt7vupqQ?e=HaLw0E)
