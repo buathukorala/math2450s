@@ -100,11 +100,11 @@ html {
     margin-top: 2em;
     margin-bottom: 1em; }
 
-.franklin-content h1 a { color: inherit; }
+.franklin-content h1 a { color: rgb(51, 80, 212); }
 .franklin-content h1 a:hover {text-decoration: none;}
-.franklin-content h2 a { color: inherit; }
+.franklin-content h2 a { color: rgb(103, 200, 238); }
 .franklin-content h2 a:hover {text-decoration: none;}
-.franklin-content h3 a { color: inherit; }
+.franklin-content h3 a { color: rgb(103, 200, 238); }
 .franklin-content h3 a:hover {text-decoration: none;}
 .franklin-content h4 a { color: inherit; }
 .franklin-content h4 a:hover {text-decoration: none;}
@@ -201,10 +201,7 @@ body { counter-reset: eqnum; }
 .katex { font-size: 1em !important; }
 
 .katex-display .katex {
-    /* Overwrite KaTeX settings. */
-    display: inline-block; 
-    /* Allow display equations to wrap on small screens. */
-    white-space: normal; }
+    display: inline-block; } /* overwrite katex settings */
 
 .katex-display::after {
     counter-increment: eqnum;
