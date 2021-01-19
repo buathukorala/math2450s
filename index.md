@@ -14,7 +14,7 @@ _(Source: Photo from Unsplash.)_
 
 
 ## Things to be known:
-Course syllabus [lives here!](assets/math3350.pdf)
+Course syllabus [lives here!](https://texastechuniversity-my.sharepoint.com/:b:/g/personal/bhagya_athukorala_ttu_edu/EYAeU871pSVIvLDTgdXbjBkBlMg5jNkCA0Z9JlCt7vupqQ?e=HaLw0E)
 
 
 * **Lecture:** MWF: 9:00-9:50, SUB 119 
