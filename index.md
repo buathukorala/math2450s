@@ -8,9 +8,7 @@
 
 **_MATH 3350: Most important math class you will ever take!_**
 
-![Alt Text](/assets/toronto.gif)   
 
-<sub><sup>Photo from Unsplash</sup></sub>
 
 ## Things to be known:
 Course syllabus [lives here!](https://texastechuniversity-my.sharepoint.com/:b:/g/personal/bhagya_athukorala_ttu_edu/EYAeU871pSVIvLDTgdXbjBkBlMg5jNkCA0Z9JlCt7vupqQ?e=HaLw0E)
